@@ -55,4 +55,4 @@ And the response message should be NOT_FOUND
 
 ### Test Result
 
-![Test Screenshot](./Screenshot 2025-05-29 at 7.04.03 pm.png)
+![Test Screenshot](./screenshot.png)
